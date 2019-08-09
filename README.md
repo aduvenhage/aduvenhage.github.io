@@ -49,3 +49,7 @@ Experienced with:
 
 - [Reference Letter 1 - Cillié Malan](CMalan reference Arno Duvenhage 11-03-2019.pdf)
 - [Reference Letter 2 - Shahen Naidoo (LinkedIn)](https://www.linkedin.com/in/aduvenhage)
+- [Degree (Masters in Engineering)](degree_meng.pdf)
+- [Degree (Bachelors in Engineering - Honours)](degree_beng_hons.pdf)
+- [Degree (Bachelors in Engineering)](degree_beng.pdf)
+- [Degree (Masters in Engineering Award - Academic Honorary Colours)](degree_meng_award.pdf)
