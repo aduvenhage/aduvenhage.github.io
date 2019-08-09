@@ -1,7 +1,7 @@
 # aduvenhage.github.io
 
 ## About
-Software engineer with a keen eye for detail and a passion for quality.
+Experienced software engineer with a keen eye for detail and a passion for quality.
 
 Current Focus:
 - Full stack developer
@@ -9,6 +9,7 @@ Current Focus:
 - Networked and distributed systems
 - High performance multi-threaded applications
 - Tech Lead on complex projects
+- Coaching team members and peers on C++ and Web development
 
 Dev Skill Set:
 - Expert C++ software developer (10+ years of experience)
@@ -20,25 +21,26 @@ Dev Skill Set:
 - 3D visualisation
 
 Experienced with:
+- C++, Java, Python, Java-script, C# 
+- Django, NGINX, Apache HTTP server, Apache Tomcat
+- Bootstrap.js, plotly.js, uikit.js and backbone.js
 - Docker, docker-compose and docker-machine
 - GIT, SVN
 - Qt, wxWidgets and MFC application development
-- C++, Java, Python, Java-script, C# 
 - XCode, QtCreator, Visual Studio, Visual Studion Code, CMake
 - Gitlab CI
-- Django, NGINX, Apache HTTP server, Apache Tomcat
-- Bootstrap.js, plotly.js, uikit.js and backbone.js
 - Digital ocean (hosting services in the cloud)
 - AWS (hosting services in the cloud)
 - Google Maps API, Cesium.js 3D Maps API, Open-Scene Graph
 - RabbitMQ (AMQP)
 - OpenCV
 - Embedded development (XBee, LoRa, Arduino, ESP8266/32, Raspberry Pi)
-- Protocols (NMEA, AIS, ADS-B / Mode-S, various RADAR system interfaces)
+- Protocols (NMEA, AIS, ADS-B / Mode-S, various RADAR system interfaces, Tactical data-links)
 - RTL-SDR software defined radio (ADS-B & AIS decoding)
 - Small solar (PV) system setup and builds
 
 ** Would like to know more about machine learning and image processing:  Had some post-graduate courses in AI, but would like some ML projects
+
 
 
 ## My Links
