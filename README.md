@@ -9,30 +9,37 @@ Current Focus:
 - Networked and distributed systems
 - High performance multi-threaded applications
 - Tech Lead on complex projects
-- Coaching team members and peers on C++ and Web development
+- Coaching team members and peers
 
 Dev Skill Set:
+- Production systems built using micro-services and Python, Kafka and Kubernetes
 - Expert C++ software developer (10+ years of experience)
 - Web development
 - High performance application development
 - Networked and distributed system development
 - Mathematical modelling of missiles, aircraft and ballistics for realtime/3D simulations
-- Modelling and simulation of complex control systems
+- Modelling and simulation of complex defence systems
 - 3D visualisation
 
 Experienced with:
-- C++, Java, Python, Java-script, C# 
-- Django, NGINX, Apache HTTP server, Apache Tomcat
-- Bootstrap.js, plotly.js, uikit.js and backbone.js
+- Python
+- C++ (10+ years)
 - Docker, docker-compose and docker-machine
+- Kubernetes
+- Micro-services
+- RabbitMQ (AMQP) and MQTT
+- Kafka
+- Django, Flask, Tornado
+- NGINX, Apache HTTP server, Apache Tomcat
+- Java, Java-script, C# 
+- Bootstrap.js, plotly.js, uikit.js and backbone.js
 - GIT, SVN
 - Qt, wxWidgets and MFC application development
-- XCode, QtCreator, Visual Studio, Visual Studion Code, CMake
+- XCode, QtCreator, Visual Studio, Visual Studio Code, CMake
 - Gitlab CI
 - Digital ocean (hosting services in the cloud)
 - AWS (hosting services in the cloud)
 - Google Maps API, Cesium.js 3D Maps API, Open-Scene Graph
-- RabbitMQ (AMQP)
 - OpenCV
 - Embedded development (XBee, LoRa, Arduino, ESP8266/32, Raspberry Pi)
 - Protocols (NMEA, AIS, ADS-B / Mode-S, various RADAR system interfaces, Tactical data-links)
