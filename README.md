@@ -43,6 +43,7 @@ Worked with:
 ## My Links
 ### CV
 - [CV 2019](arno_duvenhage_cv_2019.pdf)
+- [CV 2020](arno_duvenhage_cv_2020.pdf)
 
 ### References
 - [Reference Letter 1 - Cillié Malan](CMalan reference Arno Duvenhage 11-03-2019.pdf)
