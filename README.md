@@ -42,7 +42,7 @@ Worked with:
 
 ## My Links
 ### Favourite Personal Repo (at the moment)
-- [Lost & Found: the things that got me excited in programming in the first place] https://github.com/aduvenhage/lostnfound
+- [Lost & Found: the things that got me excited in programming in the first place] (https://github.com/aduvenhage/lostnfound)
 
 ### CV
 - [CV 2019](arno_duvenhage_cv_2019.pdf)
