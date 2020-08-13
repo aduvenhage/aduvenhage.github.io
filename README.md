@@ -41,8 +41,13 @@ Worked with:
 
 
 ## My Links
+### Favourite Personal Repo (at the moment)
+- [Lost & Found](https://github.com/aduvenhage/lostnfound)
+  ^ The things that got me excited in programming in the first place
+
 ### CV
 - [CV 2019](arno_duvenhage_cv_2019.pdf)
+- [CV 2020](arno_duvenhage_cv_2020.pdf)
 
 ### References
 - [Reference Letter 1 - Cillié Malan](CMalan reference Arno Duvenhage 11-03-2019.pdf)
