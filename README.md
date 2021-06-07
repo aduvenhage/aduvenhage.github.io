@@ -17,28 +17,27 @@ I like working in teams that deliver complex high performance systems!
 
 # Lost & Found
 Currently by day I'm a python web and micro-services backend programmer, but I have been coding in C++ for a long long long time. Remember 'Second Reality' by Future Crew? That was awesome. After seeing that I made some colourful patterns, fire and starfields in sweet 320x240 and I was hooked!!  I started some projects in an effort to stir up some ghosts and get back to what really made me want to be a programmer in the first place# Raytracer
-- Raytracer: https://aduvenhage.github.io/raytracer _Really enjoying this one!!_
-- AIS Beast: https://github.com/aduvenhage/ais_beast _AIS-Decoder unchained: more speed ..._  
-- Fractals: https://github.com/aduvenhage/mandlebrot _not much yet_
+- [Raytracer](https://aduvenhage.github.io/raytracer) _Really enjoying this one!!_
+- [AIS Beast](https://github.com/aduvenhage/ais_beast) _AIS-Decoder unchained: more speed ..._  
+- [Fractals](https://github.com/aduvenhage/mandlebrot) _not much yet_
 - Little game made with Unreal Engine: _WIP_
 
 # Popular Projects
-- https://github.com/aduvenhage/ais-decoder _Vessel Tracking Data Decoder_
+- [AIS Decoder](https://github.com/aduvenhage/ais-decoder) _Vessel Tracking Data Decoder_
 
 # Python Projects
 Mostly just me learning Python and playing in my own time.
 - Jarvis 2.0: Home automation and integrations. _WIP Project, Still Private. Hoping to integrate my solar build, home alarm, cameras, etc._
-- https://github.com/aduvenhage/docker-machine-api  _Used this on a project that required workers in AWS_
-- https://github.com/aduvenhage/dj
-- https://github.com/aduvenhage/solar-charger-pwmango_model_ix _DJANGO model YAML data import/export_
+- [Docker machine API](https://github.com/aduvenhage/docker-machine-api)  _Used this on a project that required workers in AWS_
+- [DJANGO model import/export](https://github.com/aduvenhage/django_model_ix) _DJANGO model YAML data import/export_
 
 # Arduino Projects
 Just some tinkering...
-- https://github.com/aduvenhage/jarvis-home
-- https://github.com/aduvenhage/mipy-solar
-- https://github.com/aduvenhage/lora_gps_tracker
-- https://github.com/aduvenhage/lora_wireless_siren
-- https://github.com/aduvenhage/solar-charger-pwm
+- [DIY Home Alarm](https://github.com/aduvenhage/jarvis-home)
+- [Victron MPPT Interface](https://github.com/aduvenhage/mipy-solar)
+- [GPS Tracker](https://github.com/aduvenhage/lora_gps_tracker)
+- [Wireless Sirens](https://github.com/aduvenhage/lora_wireless_siren)
+- [Solar Charge Controller](https://github.com/aduvenhage/solar-charger-pwm)
 
 # Professional Skills and Experience
 ## Skills
