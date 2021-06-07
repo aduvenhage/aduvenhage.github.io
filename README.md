@@ -18,10 +18,15 @@ I like working in teams that deliver complex high performance systems!
 # Lost & Found
 Currently by day I'm a python web and micro-services backend programmer, but I have been coding in C++ for a long long long time. Remember 'Second Reality' by Future Crew? That was awesome. After seeing that I made some colourful patterns, fire and starfields in sweet 320x240 and I was hooked!!  I started some projects in an effort to stir up some ghosts and get back to what really made me want to be a programmer in the first place# Raytracer
 
-## Raytracer:
-## AIS Beast:
-## Little game made with Unreal Engine: ...
+- Raytracer:
+- AIS Beast: https://github.com/aduvenhage/ais_beast _AIS-Decoder unchained_  
+- Fractals: https://github.com/aduvenhage/mandlebrot _not much yet_
+- Little game made with Unreal Engine:  
 
+# Arduino Projects
+- 
+# Python Projects
+- Jarvis 2.0: Home automation and integrations. _Project Still private_
 
 # Professional Skills and Experience
 ## Skills
