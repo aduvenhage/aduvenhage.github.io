@@ -65,5 +65,5 @@ Currently by day I'm a python web and micro-services backend programmer, but I h
 - [CV 2020](arno_duvenhage_cv_2020.pdf)
 
 # Some References
-- [Reference Letter 1 - Cillié Malan](CMalan reference Arno Duvenhage 11-03-2019.pdf)
+- [Reference Letter 1 - Cillié Malan](CMalan%20reference%20Arno%20Duvenhage%2011-03-2019.pdf)
 - [Reference Letter 2 - Shahen Naidoo (LinkedIn)](https://www.linkedin.com/in/aduvenhage)
