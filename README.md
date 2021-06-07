@@ -1,5 +1,3 @@
-# aduvenhage.github.io
-
 # About Me
 Programming is awesome!  I started with C++ while still at school.  Discovered star-fields and doom fire in sweet 320x240.  Was inspired by the PC demoscene, created my own graphics demos for school events and really wanted to make game engines.
 
