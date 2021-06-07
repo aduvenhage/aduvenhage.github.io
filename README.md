@@ -1,6 +1,6 @@
 # aduvenhage.github.io
 
-## About
+# About Me
 Programming is awesome!  I started with C++ while still at school.  Discovered star-fields and doom fire in sweet 320x240.  Was inspired by the PC demoscene, created my own graphics demos for school events and really wanted to make game engines.
 
 Went on to study engineering.  Became interested in AI, 3D graphics and aircraft flight dynamics.   Created an air-to-air combat flight simulator as my final year engineering project for completion of my degree.
@@ -17,14 +17,13 @@ I like working in teams that deliver complex high performance systems!
 
 # Lost & Found
 Currently by day I'm a python web and micro-services backend programmer, but I have been coding in C++ for a long long long time. Remember 'Second Reality' by Future Crew? That was awesome. After seeing that I made some colourful patterns, fire and starfields in sweet 320x240 and I was hooked!!  I started some projects in an effort to stir up some ghosts and get back to what really made me want to be a programmer in the first place# Raytracer
-
 - Raytracer: https://aduvenhage.github.io/raytracer _Really enjoying this one!!_
 - AIS Beast: https://github.com/aduvenhage/ais_beast _AIS-Decoder unchained: more speed ..._  
 - Fractals: https://github.com/aduvenhage/mandlebrot _not much yet_
 - Little game made with Unreal Engine: _WIP_
 
 # Popular Projects
--
+- https://github.com/aduvenhage/ais-decoder _Vessel Tracking Data Decoder_
 
 # Python Projects
 Mostly just me learning Python and playing in my own time.
