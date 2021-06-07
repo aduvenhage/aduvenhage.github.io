@@ -5,7 +5,7 @@ Programming is awesome!  I started with C++ while still at school.  Discovered s
 
 Went on to study engineering.  Became interested in AI, 3D graphics and aircraft flight dynamics.   Created an air-to-air combat flight simulator as my final year engineering project for completion of my degree.
 
-Got a research and development job at South Africa’s leading research institute and worked in the area of real-time modelling and simulation.  Worked on simulation models for aircraft, missiles, air-defence guns, RADARs and command and control systems.  Worked on 3D viewers and simulation based decision support tools.
+Got a research and development job at South Africa’s leading research institute and worked in the area of real-time modelling and simulation.  Worked on simulation models for aircraft, missiles, air-defence guns, RADARs and command and control systems.  Worked on 3D viewers and simulation based decision support tools.  Briefly worked on customising 1st person games for military training purposes.
 
 Led the development of an in-house high-performance distributed real-time simulation framework, using C++.  Extended this framework to integrate with a whole range of military systems to support live training exercises and field trials.  Ran with all of this for about 10 years and helped many others to make use of the framework too.
 
@@ -18,15 +18,23 @@ I like working in teams that deliver complex high performance systems!
 # Lost & Found
 Currently by day I'm a python web and micro-services backend programmer, but I have been coding in C++ for a long long long time. Remember 'Second Reality' by Future Crew? That was awesome. After seeing that I made some colourful patterns, fire and starfields in sweet 320x240 and I was hooked!!  I started some projects in an effort to stir up some ghosts and get back to what really made me want to be a programmer in the first place# Raytracer
 
-- Raytracer:
-- AIS Beast: https://github.com/aduvenhage/ais_beast _AIS-Decoder unchained_  
+- Raytracer: https://aduvenhage.github.io/raytracer _Really enjoying this one!!_
+- AIS Beast: https://github.com/aduvenhage/ais_beast _AIS-Decoder unchained: more speed ..._  
 - Fractals: https://github.com/aduvenhage/mandlebrot _not much yet_
-- Little game made with Unreal Engine:  
+- Little game made with Unreal Engine: _WIP_
+
+# More Projects
+-
+
+# Python Projects
+Mostly just me learning Python and playing in my own time.
+- Jarvis 2.0: Home automation and integrations. _WIP Project, Still Private_
+- https://github.com/aduvenhage/docker-machine-api  _Used this on a project that required workers in AWS_
+- https://github.com/aduvenhage/django_model_ix _DJANGO model YAML data import/export_
 
 # Arduino Projects
+Some tinkering...
 - 
-# Python Projects
-- Jarvis 2.0: Home automation and integrations. _Project Still private_
 
 # Professional Skills and Experience
 ## Skills
