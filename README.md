@@ -23,18 +23,23 @@ Currently by day I'm a python web and micro-services backend programmer, but I h
 - Fractals: https://github.com/aduvenhage/mandlebrot _not much yet_
 - Little game made with Unreal Engine: _WIP_
 
-# More Projects
+# Popular Projects
 -
 
 # Python Projects
 Mostly just me learning Python and playing in my own time.
-- Jarvis 2.0: Home automation and integrations. _WIP Project, Still Private_
+- Jarvis 2.0: Home automation and integrations. _WIP Project, Still Private. Hoping to integrate my solar build, home alarm, cameras, etc._
 - https://github.com/aduvenhage/docker-machine-api  _Used this on a project that required workers in AWS_
-- https://github.com/aduvenhage/django_model_ix _DJANGO model YAML data import/export_
+- https://github.com/aduvenhage/dj
+- https://github.com/aduvenhage/solar-charger-pwmango_model_ix _DJANGO model YAML data import/export_
 
 # Arduino Projects
-Some tinkering...
-- 
+Just some tinkering...
+- https://github.com/aduvenhage/jarvis-home
+- https://github.com/aduvenhage/mipy-solar
+- https://github.com/aduvenhage/lora_gps_tracker
+- https://github.com/aduvenhage/lora_wireless_siren
+- https://github.com/aduvenhage/solar-charger-pwm
 
 # Professional Skills and Experience
 ## Skills
