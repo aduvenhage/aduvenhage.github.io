@@ -1,5 +1,11 @@
 # aduvenhage.github.io
 
+# under construction
+I have been coding in C++ for a long long long time. Remember 'Second Reality' by Future Crew? That was awesome. After seeing that I made some colourful patterns, fire and starfields in sweet 320x240 and I was hooked!!
+
+Currently by day I'm a python web backend programmer and this project is an effort to stir up some ghosts and get back to what really made me want to be a programmer in the first place.
+
+
 ## About
 Programming is awesome!  I started with C++ while still at school.  Discovered star-fields and doom fire in sweet 320x240.  Was inspired by the PC demoscene, created my own graphics demos for school events and really wanted to make game engines.
 
