@@ -3,7 +3,7 @@ Programming is awesome!  I started with C++ while still at school.  Discovered s
 
 Went on to study engineering.  Became interested in AI, 3D graphics and aircraft flight dynamics.   Created an air-to-air combat flight simulator as my final year engineering project for completion of my degree.
 
-Got a research and development job at South Africa’s leading research institute and worked in the area of real-time modelling and simulation.  Worked on simulation models for aircraft, missiles, air-defence guns, RADARs and command and control systems.  Worked on 3D viewers and simulation based decision support tools.  Briefly worked on customising 1st person games for military training purposes.
+Got a research and development job at South Africa’s leading research institute and worked in the area of real-time modelling and simulation.  Worked on simulation models for aircraft, missiles, air-defence guns, RADARs and command and control systems.  Worked on 3D viewers and simulation based decision support tools.  Briefly worked on customising 1st person shooter games for military training purposes.
 
 Led the development of an in-house high-performance distributed real-time simulation framework, using C++.  Extended this framework to integrate with a whole range of military systems to support live training exercises and field trials.  Ran with all of this for about 10 years and helped many others to make use of the framework too.
 
