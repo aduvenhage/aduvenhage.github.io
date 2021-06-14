@@ -14,7 +14,7 @@ Left the research institute and joined Takealot, South Africa’s largest online
 I like working in teams that deliver complex high performance systems!
 
 # Lost & Found
-Currently by day I'm a python web and micro-services backend programmer, but I have been coding in C++ for a long long long time.  I started some projects in an effort to stir up some ghosts and get back to what really made me want to be a programmer in the first place.
+Currently by day I'm a python web and micro-services backend programmer, but I have been coding in C++ for a long long long time.  I recently started some projects in an effort to stir up some ghosts and get back to what really made me want to be a programmer in the first place.
 - [Raytracer](https://aduvenhage.github.io/raytracer) _Really enjoying this one!!_
 - [AIS Beast](https://github.com/aduvenhage/ais_beast) _AIS-Decoder unchained: more speed ..._  
 - [Fractals](https://github.com/aduvenhage/mandlebrot) _not much yet_
