@@ -1,5 +1,8 @@
-<img src="raymarched_nougat2.jpeg" alt="Clean raytracing (no monte carlo)" width="300"/>
-<img src="raytraced_bulb2.jpeg" alt="Clean raytracing (no monte carlo)" width="300"/>
+<p float="left">
+  <img src="raymarched_nougat2.jpeg" alt="Clean raytracing (no monte carlo)" width="30%"/>
+  <img src="raytraced_bulb2.jpeg" alt="Clean raytracing (no monte carlo)" width="30%"/>
+  <img src="raytraced_bulb2.jpeg" alt="Clean raytracing (no monte carlo)" width="30%"/>
+</p>
 
 # About Me
 Programming is awesome!  I started with C++ while still at school.  Discovered star-fields and doom fire in sweet 320x240.  Was inspired by the PC demoscene, created my own graphics demos for school events and really wanted to make game engines.
