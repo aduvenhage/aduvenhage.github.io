@@ -1,7 +1,7 @@
 <p float="left">
   <img src="raymarched_nougat2.jpeg" alt="Clean raytracing (no monte carlo)" width="30%"/>
   <img src="raytraced_bulb2.jpeg" alt="Clean raytracing (no monte carlo)" width="30%"/>
-  <img src="raytraced_bulb2.jpeg" alt="Clean raytracing (no monte carlo)" width="30%"/>
+  <img src="raytraced_nougat3.jpeg" alt="Clean raytracing (no monte carlo)" width="30%"/>
 </p>
 
 # About Me
