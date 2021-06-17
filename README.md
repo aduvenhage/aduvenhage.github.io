@@ -79,6 +79,7 @@ Just some tinkering...
 # More profiles
 - [CV 2020](arno_duvenhage_cv_2020.pdf)
 - [LinkedIn](https://www.linkedin.com/in/aduvenhage/)
+- [Masters Dissertation (Engineering, University of Pretoria, South Africa)](ming.pdf)
 
 # Some References
 - [Reference Letter 1 - Cillié Malan](CMalan%20reference%20Arno%20Duvenhage%2011-03-2019.pdf)
