@@ -77,7 +77,7 @@ Just some tinkering...
 - Jira & SCRUM
 
 # More profiles
-- [CV 2020](arno_duvenhage_cv_2020.pdf)
+- [CV 2020](arno_duvenhage_cv_2021.pdf)
 - [LinkedIn](https://www.linkedin.com/in/aduvenhage/)
 - [Masters Dissertation (Engineering, University of Pretoria, South Africa)](ming.pdf)
 
