@@ -36,7 +36,7 @@ Mostly just me learning Python and playing in my own time.
 - [DJANGO model import/export](https://github.com/aduvenhage/django_model_ix) _DJANGO model YAML data import/export_
 
 # Arduino Projects
-Just some tinkering...
+Just some tinkering (and mostly stale) ...
 - [DIY Home Alarm](https://github.com/aduvenhage/jarvis-home)
 - [Victron MPPT Interface](https://github.com/aduvenhage/mipy-solar)
 - [GPS Tracker](https://github.com/aduvenhage/lora_gps_tracker)
