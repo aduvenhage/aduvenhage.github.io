@@ -20,7 +20,7 @@ Left the research institute and joined Takealot, South Africa’s largest online
 Now back to C++ again, with Bohemia Interactive Simulations.  At BISim I'm part of the Blue R&D team, helping to improve the data pipeline and engine integrations of the Blue whole world visualization technology used in VBS4.  I also led the development of the second round Epic Mega Grant project to integrate the Blue data pipeline with the Unreal Engine.
 
 # Lost & Found
-Currently by day I'm a python web and micro-services backend programmer, but I have been coding in C++ for a long long long time.  I recently started some projects in an effort to stir up some ghosts and get back to what really made me want to be a programmer in the first place.
+A while ago when I spent my days as a python web and micro-services backend programmer, I wanted to get back into some high-performance C++ work.  So, Istarted some new projects in an effort to stir up some ghosts and get back to what really made me want to be a programmer in the first place.
 - [Raytracer](https://aduvenhage.github.io/raytracer) _Really enjoying this one!!_
 - [AIS Beast](https://github.com/aduvenhage/ais_beast) _AIS-Decoder unchained: more speed ..._  
 - [Fractals](https://github.com/aduvenhage/mandlebrot) _not much yet_
@@ -47,19 +47,18 @@ Just some tinkering (and mostly stale) ...
 ## Skills
 - C++ (15+ years)
 - Python (3+ years)
-- HTML, CSS, Java-script
-- Java, C# (limited experience)
+- Web-tech (2+ years)
 
 ## Worked In
 - Realtime simulation
 - Performance critical software
-- Distributed and networked systems
+- Distributed systems
 - 3D Visualisation
 - Web-development
 - Location based tracking
-- System integration
 
 ## Worked With
+- Unreal Engine
 - Docker & Kubernetes
 - Django, Flask & NGINX
 - Digital Ocean & AWS
