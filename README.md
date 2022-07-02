@@ -15,9 +15,9 @@ Led the development of an in-house high-performance distributed real-time simula
 
 Moved on to the earth observation and remote sensing domain as a Principle Engineer, working on vessel tracking and analysis.  Enjoyed creating a high performance web-socket backend for realtime vessel data (using C++) — creating a whole web-server and data integration framework in the process.  Used this a part of a vessel tracking system for the South African government.
 
-Left the research institute and joined Takealot, South Africa’s largest online retailer, as a Senior Python Engineer.  Currently working in the Supply Chain team, developing and maintaining micro-service based systems (using Python, Kafka and Kubernetes).  
+Left the research institute and joined Takealot, South Africa’s largest online retailer, as a Senior Python Engineer in the Supply Chain team.  My role was to developed and maintained micro-service based systems (using Python, Kafka and Kubernetes) for the retail system backend, integrating with warehouse and logistics systems.
 
-I like working in teams that deliver complex high performance systems!
+Now back to C++ again, with Bohemia Interactive Simulations.  At BISim I'm part of the Blue R&D team, helping to improve the data pipeline and engine integrations of the Blue whole world visualization technology used in VBS4.  I also led the development of the second round Epic Mega Grant project to integrate the Blue data pipeline with the Unreal Engine.
 
 # Lost & Found
 Currently by day I'm a python web and micro-services backend programmer, but I have been coding in C++ for a long long long time.  I recently started some projects in an effort to stir up some ghosts and get back to what really made me want to be a programmer in the first place.
